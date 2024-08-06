@@ -1,0 +1,15 @@
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/bin/Debug/net7.0/VintedShipmentCalculator
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/bin/Debug/net7.0/VintedShipmentCalculator.deps.json
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/bin/Debug/net7.0/VintedShipmentCalculator.runtimeconfig.json
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/bin/Debug/net7.0/VintedShipmentCalculator.dll
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/bin/Debug/net7.0/VintedShipmentCalculator.pdb
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.csproj.AssemblyReference.cache
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.AssemblyInfoInputs.cache
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.AssemblyInfo.cs
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.csproj.CoreCompileInputs.cache
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.dll
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/refint/VintedShipmentCalculator.dll
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.pdb
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/VintedShipmentCalculator.genruntimeconfig.cache
+/Users/deividas.kalvelis/Documents/GitHub/ShipmentCalculator/VintedShipmentCalculator/VintedShipmentCalculator/obj/Debug/net7.0/ref/VintedShipmentCalculator.dll
